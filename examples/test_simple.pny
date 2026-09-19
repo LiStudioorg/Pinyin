@@ -1,0 +1,3 @@
+hanshu main() {
+    shuchu("hello")
+}

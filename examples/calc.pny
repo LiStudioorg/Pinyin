@@ -1,0 +1,9 @@
+hanshu main() {
+    ling a = 1 + 2 * 3
+    ling b = (a + 4) / 2
+    ling c = -b
+    shuchu(a)
+    shuchu(b)
+    shuchu(c)
+    shuchu(2)
+}

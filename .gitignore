@@ -1,0 +1,9 @@
+pnyc
+*.s
+*.o
+hello
+calc
+cond
+loop
+fib
+test_simple

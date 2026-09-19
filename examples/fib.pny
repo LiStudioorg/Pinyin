@@ -1,0 +1,7 @@
+hanshu fib(n) {
+    ruguo n < 2 { fanhui n }
+    fanhui fib(n-1) + fib(n-2)
+}
+hanshu main() {
+    shuchu(fib(10))
+}

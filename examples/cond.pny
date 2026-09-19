@@ -1,0 +1,12 @@
+hanshu main() {
+    ling a = 5
+    ling b = 3
+    ruguo a > b {
+        shuchu("a da")
+    } fouze {
+        shuchu("b da")
+    }
+    ruguo a == b {
+        shuchu("xiangdeng")
+    }
+}

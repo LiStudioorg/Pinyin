@@ -1,0 +1,7 @@
+hanshu main() {
+    ling i = 0
+    dang i < 3 {
+        shuchu(i)
+        i = i + 1
+    }
+}
